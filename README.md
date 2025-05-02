@@ -1,1 +1,1 @@
-[![Java CI with Gradle](https://github.com/Vlad-Atlas/patterns1/actions/workflows/gradle-publish.yml/badge.svg)](https://github.com/Vlad-Atlas/patterns1/actions/workflows/gradle-publish.yml)
+[![Java CI with Gradle](https://github.com/Vlad-Atlas/patterns1/actions/workflows/gradle-publish.yml/badge.svg?branch=main)](https://github.com/Vlad-Atlas/patterns1/actions/workflows/gradle-publish.yml)
